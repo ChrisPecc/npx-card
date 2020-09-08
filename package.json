@@ -1,6 +1,6 @@
 {
   "name": "chrispecc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Christophe Pecceu's visit card",
   "main": "index.js",
   "bin": {

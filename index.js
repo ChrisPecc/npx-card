@@ -4,17 +4,17 @@ const chalk = require("chalk");
 const boxen = require("boxen");
 
 const data = {
-    name: chalk.yellow("       Christophe Pecceu"),
+    name: chalk.yellow("Christophe Pecceu"),
     handle: chalk.red("ChrisPecc"),
-    work: chalk.blue("        Junior web developer"),
-    npm: "https://npmjs.com/" + "~chrispecc",
-    github: "https://github.com/" + "ChrisPecc",
+    work: chalk.blue("Junior web developer"),
+    npm: "     https://npmjs.com/" + "~chrispecc",
+    github: "  https://github.com/" + "ChrisPecc",
     linkedin: "https://linkedin.com/in/" + "christophe-pecceu",
-    npx: "npx" + " " + "@chrispecc/card",
-    labelNpm: chalk.cyan("        npm:"),
-    labelGitHub: chalk.cyan("     GitHub:"),
-    labelLinkedIn: chalk.cyan("   LinkedIn:"),
-    labelCard: chalk.cyan("       Card:"),
+    npx: "    npx" + " " + "@chrispecc/card",
+    labelGitHub: chalk.cyan("GitHub:"),
+    labelLinkedIn: chalk.cyan("LinkedIn:"),
+    labelNpm: chalk.cyan("npm:"),
+    labelCard: chalk.cyan("Card:"),
 };
 const NEWLINE = "\n";
 const EMPTYLINE = "";
