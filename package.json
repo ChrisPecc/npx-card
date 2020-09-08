@@ -1,0 +1,32 @@
+{
+  "name": "chrispecc",
+  "version": "1.0.2",
+  "description": "Christophe Pecceu's visit card",
+  "main": "index.js",
+  "bin": {
+    "chrispecc": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisPecc/npx-card.git"
+  },
+  "keywords": [
+    "visit card",
+    "business card",
+    "npx card",
+    "card"
+  ],
+  "author": "Christophe Pecceu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisPecc/npx-card/issues"
+  },
+  "homepage": "https://github.com/ChrisPecc/npx-card#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.0"
+  }
+}
